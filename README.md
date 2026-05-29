@@ -2,7 +2,7 @@
 
 **Live App → [turbine-thermal-stress-analysis.streamlit.app](https://turbine-thermal-stress-analysis.streamlit.app)**
 
-A physics-based 2D steady-state heat conduction and thermal stress simulator for aeroengine turbine blade cross-sections, built in Python. Developed as an independent engineering project following manufacturing engineering work at Tata Advanced Systems Limited (Tata Centre of Excellence for Aeroengines), where real aeroengine component data is processed for clients including **GE Aerospace** and **Safran Aircraft Engines (Pratt & Whitney)**.
+A physics-based 2D steady-state heat conduction and thermal stress simulator for aeroengine turbine blade cross-sections, built in Python. Developed as an independent engineering project.
 
 ---
 
