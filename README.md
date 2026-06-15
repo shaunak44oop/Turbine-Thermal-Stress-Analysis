@@ -66,6 +66,7 @@ Steady-state 2D heat conduction (Laplace equation): ∂²T/∂x² + ∂²T/∂y�
 ---
 
 ## Project Structure
+
 ├── app.py           # Streamlit web application
 ├── solver.py        # FDM heat equation solver (Gauss-Seidel + Robin BCs)
 ├── geometry.py      # NACA 4-digit aerofoil geometry + 2D mesh generation
