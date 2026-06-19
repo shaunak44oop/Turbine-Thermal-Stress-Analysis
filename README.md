@@ -2,7 +2,7 @@
 
 **Live App → [turbine-thermal-stress-analysis.streamlit.app](https://turbine-thermal-stress-analysis.streamlit.app)**
 
-A physics-based 2D steady-state heat conduction and thermal stress simulator for aeroengine turbine blade cross-sections, built in Python. Developed as an independent engineering project.
+A physics-based 2D steady-state heat conduction and thermal stress simulator for aeroengine turbine blade cross-sections, built in Python. 
 
 ---
 
